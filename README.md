@@ -56,7 +56,7 @@ This "bridge" between eras released a hidden digital anomaly known as "The Noise
 
 This repository serves as a **portfolio showcase**.
 
-In May 2026, the security service of the "Mincrasoft" corporation issued a strict ultimatum demanding the removal of this mod from all platforms and the transfer of the source code. In this regard, the original source code of the project (Java architecture, custom camera algorithms, and AI) is permanently **hidden** in a private repository to protect intellectual property.
+In May 2026, the security service of the "Mincrasoft" corporation issued a strict ultimatum demanding the removal of this mod from all platforms and the transfer of the source code. In this regard, the original source code of the project (Java architecture, custom camera algorithms, and AI) is permanently **hidden** in a private repository to protect intellectual property. (P.S - An alternate universe, unrelated to reality! This is part of the mod's lore.)
 
 For orders, please contact:
 
