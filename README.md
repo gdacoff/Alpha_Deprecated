@@ -30,14 +30,6 @@ This "bridge" between eras released a hidden digital anomaly known as "The Noise
 *   🎛️ **Sound Anomalies:** Integrated hidden suppressing frequencies that the original developers hid in creepy cave sounds to contain the virus[cite: 8].
 *   📂 **Restored Lore:** The mod's architecture is recreated based on the forgotten cloud backups of Elin Zetterstrand's diaries[cite: 12].
 
-## 📸 Gallery (Gameplay & Anomalies)
-
-<div align="center">
-  <!-- Вставь сюда скриншоты сломанной генерации, пустых миров или найденных кассет -->
-  <img width="1280" height="720" alt="Alpha Anomaly 1" src="https://github.com/user-attachments/assets/placeholder-image-1" />
-  <img width="1280" height="720" alt="Found Cassette" src="https://github.com/user-attachments/assets/placeholder-image-2" />
-</div>
-
 ## 🔒 Source Code and Copyright
 
 This repository serves as a **portfolio showcase**.
