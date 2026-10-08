@@ -19,7 +19,7 @@
 
 ## 📝 About the project
 
-**alpha_deprecated-1.0.2** — This is a conceptual horror project created by directly crossing leaked source code archives of the ancient Alpha version with the modern Minecraft 1.20.1 engine. 
+**alpha_deprecated** — This is a conceptual horror project created by directly crossing leaked source code archives of the ancient Alpha version with the modern Minecraft 1.20.1 engine. 
 
 This "bridge" between eras released a hidden digital anomaly known as "The Noise" into the modern game. The mod immerses the player in a broken, degrading version of the game, where a hostile virus perceives modern code as chaotic trash and forcibly rolls back the world to the state of a dead sandbox from 2009.
 
