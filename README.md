@@ -39,6 +39,10 @@ This "bridge" between eras released a hidden digital anomaly known as "The Noise
 <img width="1920" height="1080" alt="EVIDENCE_17-46-38" src="https://github.com/user-attachments/assets/3b065644-8506-4410-9517-98ed2b787287" />
 <img width="1920" height="1080" alt="EVIDENCE_16-21-55" src="https://github.com/user-attachments/assets/01fe2a2b-632f-4068-b247-c5eaa839f8fb" />
 <img width="1920" height="1080" alt="EVIDENCE_13-11-07" src="https://github.com/user-attachments/assets/5e0ef320-cd37-4be4-abf1-b77f6d088220" />
+<img width="1920" height="1080" alt="2026-10-08_17 56 15" src="https://github.com/user-attachments/assets/88339dc3-6add-455a-8133-1bc4d2cdc04e" />
+<img width="1920" height="1080" alt="2026-10-08_17 55 08" src="https://github.com/user-attachments/assets/2b2e531b-bed6-41f7-b349-36703c03df31" />
+<img width="1920" height="1080" alt="2026-10-08_17 54 13" src="https://github.com/user-attachments/assets/99184335-eaf9-453c-89bb-b2f0982ae73f" />
+<img width="1920" height="1080" alt="2026-10-08_17 57 01" src="https://github.com/user-attachments/assets/6e2f70bc-80c4-4347-a1b5-5946357219cf" />
 </div>
 
 ## 🔒 Source Code and Copyright
