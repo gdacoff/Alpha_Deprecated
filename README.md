@@ -34,13 +34,20 @@ This "bridge" between eras released a hidden digital anomaly known as "The Noise
 
 <div align="center">
 
-<img width="1920" height="1080" alt="EVIDENCE_14-56-46" src="https://github.com/user-attachments/assets/4996605a-7d7d-4d00-ac3f-d2d567c4986c" /><img width="1920" height="1080" alt="EVIDENCE_12-56-26" src="https://github.com/user-attachments/assets/cfff665b-ea21-4ac8-9b81-f2868ed21334" />
+<img width="1920" height="1080" alt="EVIDENCE_14-56-46" src="https://github.com/user-attachments/assets/4996605a-7d7d-4d00-ac3f-d2d567c4986c" />
+<img width="1920" height="1080" alt="EVIDENCE_12-56-26" src="https://github.com/user-attachments/assets/cfff665b-ea21-4ac8-9b81-f2868ed21334" />
 <img width="1920" height="1080" alt="EVIDENCE_13-11-18" src="https://github.com/user-attachments/assets/a6e9ff25-42e2-4dbe-90f6-dd0f0dd2699f" />
 <img width="1920" height="1080" alt="EVIDENCE_17-46-38" src="https://github.com/user-attachments/assets/3b065644-8506-4410-9517-98ed2b787287" />
+<img width="1920" height="1080" alt="2026-10-08_18 03 06" src="https://github.com/user-attachments/assets/de82b424-b8aa-47c6-8d26-2042c3723d8c" />
+<img width="1920" height="1080" alt="2026-10-08_18 00 50" src="https://github.com/user-attachments/assets/e64477fe-6381-4970-9cba-80fddd937114" />
+<img width="1920" height="1080" alt="2026-10-08_18 08 18" src="https://github.com/user-attachments/assets/6e37f922-0056-4577-81c2-924803183ba8" />
+<img width="1920" height="1080" alt="2026-10-08_18 04 13" src="https://github.com/user-attachments/assets/8205fb12-04d3-452a-acee-56035f4cc142" />
 <img width="1920" height="1080" alt="EVIDENCE_16-21-55" src="https://github.com/user-attachments/assets/01fe2a2b-632f-4068-b247-c5eaa839f8fb" />
 <img width="1920" height="1080" alt="EVIDENCE_13-11-07" src="https://github.com/user-attachments/assets/5e0ef320-cd37-4be4-abf1-b77f6d088220" />
 <img width="1920" height="1080" alt="2026-10-08_17 56 15" src="https://github.com/user-attachments/assets/88339dc3-6add-455a-8133-1bc4d2cdc04e" />
 <img width="1920" height="1080" alt="2026-10-08_17 55 08" src="https://github.com/user-attachments/assets/2b2e531b-bed6-41f7-b349-36703c03df31" />
+<img width="1920" height="1080" alt="2026-10-08_18 06 30" src="https://github.com/user-attachments/assets/891b70e9-7bac-4072-b637-9bdb6cb06566" />
+<img width="1920" height="1080" alt="2026-10-08_18 05 15" src="https://github.com/user-attachments/assets/f6509d12-5cb7-46fb-9c5e-1d9138668b63" />
 <img width="1920" height="1080" alt="2026-10-08_17 54 13" src="https://github.com/user-attachments/assets/99184335-eaf9-453c-89bb-b2f0982ae73f" />
 <img width="1920" height="1080" alt="2026-10-08_17 57 01" src="https://github.com/user-attachments/assets/6e2f70bc-80c4-4347-a1b5-5946357219cf" />
 </div>
