@@ -2,7 +2,7 @@
   <!-- СЮДА МОЖНО ВСТАВИТЬ ЛОГОТИП ИЛИ СКРИНШОТ ГЛАВНОЙ СТРАНИЦЫ/МЕНЮ МОДА -->
   <!-- <img src="ссылка_на_картинку" width="800" alt="Alpha Deprecated Banner"> -->
   
-  <h1>💀 alpha_deprecated</h1>
+  <h1>alpha_deprecated</h1>
   <p><b>The Broken Alpha / Ultimate horror mod for Minecraft</b></p>
 
   <!-- Бейджи со стеком технологий -->
