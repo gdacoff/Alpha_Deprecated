@@ -8,7 +8,7 @@
   <!-- Бейджи со стеком технологий -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/NeoForge-191919?style=for-the-badge&logo=forge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Minecraft_1.20.1-5E8A5E?style=for-the-badge&logo=minecraft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Minecraft_1.21.1-5E8A5E?style=for-the-badge&logo=minecraft&logoColor=white" />
   
   <br><br>
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
