@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Minecraft_1.21.1-5E8A5E?style=for-the-badge&logo=minecraft&logoColor=white" />
   
   <br><br>
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge" />
 </div>
 
